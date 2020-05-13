@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1582476220 source:c:\users\pmpav\desktop\sqlservice\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cassert>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iostream>
+	"AVLTree.hpp"
+
+1582476561 c:\users\pmpav\desktop\sqlservice\avltree.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cassert>
+	<fstream>
+	<sstream>
+	<string>
+
+1582213974 c:\users\pmpav\desktop\sqlservice\info.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string.h>
+
+1582450995 c:\users\pmpav\desktop\sqlservice\record.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cassert>
+	<fstream>
+	<sstream>
+	<string>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iostream>
+
+1589359288 source:c:\users\pmpav\desktop\classes\sqlservice-master\main.cpp
+	<iostream>
+	<algorithm>
+	<list>
+	<cstdlib>
+	<ctime>
+	<cassert>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"AVLTree.hpp"
+	<iostream>
+	<winsock.h>
+
+1586795852 c:\users\pmpav\desktop\classes\sqlservice-master\avltree.hpp
+	<iostream>
+	<algorithm>
+	<list>
+	<cstdlib>
+	<ctime>
+	<cassert>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1589360963 source:c:\users\pmpav\desktop\classes\sqlservice-master\client.cpp
+	<iostream>
+	<winsock.h>
+
+1589360879 source:c:\users\pmpav\desktop\classes\sqlservice-master\server.cpp
+	<iostream>
+	<winsock.h>
+
